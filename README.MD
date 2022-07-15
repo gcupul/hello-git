@@ -103,3 +103,11 @@ Esto es otro texto dividido por asteriscos
 Esto es otro texto dividido por guion medio
 
 ----
+
+# Saltos de lineas
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- Lista
